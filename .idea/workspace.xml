@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fffa515-a203-4099-8069-977976bf2bc3" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lCUVpVUpeKBvlwShnUXykae3Nm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.ClickableHeaderTest.clickableLogoAppears.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickableHeaderTest.projektiMenuOptionAppears.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickableHeaderTest.projektiUIzgradnjiOptionIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactHeaderTest.addressAppears.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactHeaderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactHeaderTest.phone1Appears.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactHeaderTest.phoneNumber1IsCorrect.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactHeaderTest.phoneNumbersAppear.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterElementsTest.copyrightInfoIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterElementsTest.phoneOptionIconIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterElementsTest.poslednjePostavljenaVestAreaIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterElementsTest.webDesignInfoIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.kontaktButtonIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.kontaktMessageIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.logoInFooterIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaAppears.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaIzgradjeniObjektiElementIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaKontaktElementIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaONamaElementIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaPocetnaElementIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FooterMenuTest.meniAreaProjektiUIzgradnjiElementIsClickable.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/StanimirovicGradnja1/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.FooterElementsTest.phoneOptionIconIsDisplayed">
+    <configuration name="FooterElementsTest.copyrightInfoIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StanimirovicGradnja1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterElementsTest" />
+      <option name="METHOD_NAME" value="copyrightInfoIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooterElementsTest.phoneOptionIconIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StanimirovicGradnja1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterElementsTest" />
+      <option name="METHOD_NAME" value="phoneOptionIconIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooterElementsTest.poslednjePostavljenaVestAreaIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StanimirovicGradnja1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterElementsTest" />
+      <option name="METHOD_NAME" value="poslednjePostavljenaVestAreaIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooterElementsTest.webDesignInfoIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StanimirovicGradnja1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterElementsTest" />
+      <option name="METHOD_NAME" value="webDesignInfoIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooterMenuTest.meniAreaAppears" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StanimirovicGradnja1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterMenuTest" />
+      <option name="METHOD_NAME" value="meniAreaAppears" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FooterElementsTest.phoneOptionIconIsDisplayed" />
+        <item itemvalue="TestNG.FooterElementsTest.poslednjePostavljenaVestAreaIsDisplayed" />
+        <item itemvalue="TestNG.FooterElementsTest.copyrightInfoIsDisplayed" />
+        <item itemvalue="TestNG.FooterElementsTest.webDesignInfoIsDisplayed" />
+        <item itemvalue="TestNG.FooterMenuTest.meniAreaAppears" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fffa515-a203-4099-8069-977976bf2bc3" name="Changes" comment="" />
+      <created>1724683581637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724683581637</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1728055475856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728055475856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
